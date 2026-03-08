@@ -1,0 +1,19 @@
+body {
+  flex-direction: column;
+}
+
+.topbar {
+  border-bottom: 1px solid #cccccc;
+}
+
+.logo-title {
+  display: inline-flex;
+  text-decoration: none;
+}
+
+.logo-title .title {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: black;
+}
